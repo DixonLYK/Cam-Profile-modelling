@@ -1,0 +1,13 @@
+4.5
+5
+1.5
+3
+120, 120, 120
+cycloidal rise, up dwell, cycloidal return
+
+(maximum displacement, h)
+(base radius, R_b)
+(follower radius,R_f)
+(no. of motion segments, N)
+(range of segments, B)
+(motion type)

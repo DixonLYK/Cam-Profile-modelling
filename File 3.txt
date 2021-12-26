@@ -1,0 +1,13 @@
+2.8
+5
+1.25
+5
+20, 125, 40, 125, 50
+down dwell, constant acceleration rise, up dwell, constant acceleration return, down dwell
+
+(maximum displacement, h)
+(base radius, R_b)
+(follower radius,R_f)
+(no. of motion segments, N)
+(range of segments, B)
+(motion type)

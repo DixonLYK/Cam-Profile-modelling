@@ -1,0 +1,15 @@
+3.5
+5
+1
+3
+90, 90, 180
+shm rise, up dwell, shm return
+
+(maximum displacement, h)
+(base radius, R_b)
+(follower radius,R_f)
+(no. of motion segments, N)
+(range of segments, B)
+(motion type)
+
+Cam profile sample input.txt
